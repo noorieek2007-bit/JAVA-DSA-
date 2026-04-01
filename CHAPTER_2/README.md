@@ -2,7 +2,7 @@
 
 This file gives short, focused explanations and examples for core beginner Java topics.
 
----
+--------
 
 ## 1. Creating a Java File & Boilerplate Code
 
@@ -20,7 +20,7 @@ public class Main {
 
 - File name and public class name should usually match (`Main.java` → `public class Main`).
 
----
+------
 
 ## 2. Output in Java (`System.out.println`)
 
@@ -32,7 +32,7 @@ System.out.print("Hello ");       // prints without newline
 System.out.println(10 + 20);      // prints 30
 ```
 
----
+------
 
 ## 3. Variables in Java
 
@@ -49,7 +49,7 @@ boolean isPassed = true;
 String name = "Ravi";
 ```
 
----
+-------
 
 ## 4. Data Types in Java
 
@@ -84,7 +84,7 @@ boolean isJavaFun = true;
 String msg = "Java";
 ```
 
----
+-------
 
 ## 5. Literals in Java
 
